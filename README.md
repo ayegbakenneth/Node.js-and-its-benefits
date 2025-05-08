@@ -11,7 +11,9 @@ Role of NPM (Node Package Manager): The Node Package Manager (NPM) is the defaul
 A comparison table highlighting Node.js scalability features versus Traditional server side technologies.
 
 1, Operate on a single threaded event Loop.
+
 2, Enable the use of JavaScript language across client and server sides.
+
 3, High speed and performance capability.
 	
 Develop a list of pros and cons for Node.js
