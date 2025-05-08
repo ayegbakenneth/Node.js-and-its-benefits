@@ -10,17 +10,9 @@ Role of NPM (Node Package Manager): The Node Package Manager (NPM) is the defaul
 
 A comparison table highlighting Node.js scalability features versus Traditional server side technologies.
 
-
-		Node.js											Traditional Server Side
 1, Operate on a single threaded event Loop.
 2, Enable the use of JavaScript language across client and server sides.
-3, High speed and performance capability						Follows a multi-threaded blocking model.
-											Requires separate programming languages for both front-end and backend
-											Not as efficient as Node.js for handling high performance, real-time applications 											that requires asynchronous processing
-
-
-
-
+3, High speed and performance capability.
 	
 Develop a list of pros and cons for Node.js
 
@@ -33,7 +25,6 @@ Node.js uses a non-blocking, event-driven architecture that allows it to handle 
 Node.js applications can be easily scaled horizontally by adding more servers to handle increased traffic.
 
 •	Easy to Learn:
-
 For developers familiar with JavaScript, Node.js is relatively easy to learn, as it uses the same language for both front-end and back-end development.
 
 •	Cost-Effective:
